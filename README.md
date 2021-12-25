@@ -18,7 +18,7 @@ I have used CSS to add subtle animations to various elements for better visual e
 
 ### BLOG SECTION 
 
-I have written a small walkthrough in the blogs section to give you an idea behind the technologies that I have used in building these webpages. The code for the blog section can be accessed on the blog section webpage itself.
+I have written a small walkthrough in the blogs section to give you an idea behind the technologies that I have used in building these webpages. The code for the blog section can be accessed on the blog section webpage itself. As mentioned, this blog gives me complete control over the publishing, editing, and deleting the blog articles through the Netlify CMS.
 
 
 PS: I have also referred to a few YouTube Videos in order to build these webpages. 
