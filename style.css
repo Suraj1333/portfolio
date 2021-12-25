@@ -289,7 +289,7 @@ main .intro-image img {
 .work .work-intro .skill-content {
   margin: 0rem 2.5rem;
   background-color: var(--foreground-color);
-  padding: 1.5rem 1.5rem;
+  padding: 1.1rem 1.1rem;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -308,7 +308,7 @@ main .intro-image img {
   font-size: 1.5rem;
   color: var(--text-color);
   cursor: pointer;
-  margin: 0.5rem;
+  margin: 0.2rem;
   -webkit-transition: ease-in-out all 0.5s;
   transition: ease-in-out all 0.5s;
 }
@@ -316,6 +316,12 @@ main .intro-image img {
 .work .work-intro .skill-content i:hover {
   -webkit-transform: scale(1.2);
           transform: scale(1.2);
+}
+
+@media (max-width: 425px) {
+  .work .work-intro .skill-content i i {
+    font-size: 1.3rem;
+  }
 }
 
 .work .work-main {
@@ -384,7 +390,7 @@ main .intro-image img {
 }
 
 .work .work-main .work-box .work-cta a {
-  width: 10rem;
+  width: 8rem;
   height: 2.5rem;
   border-radius: 5px;
   border-style: none;
