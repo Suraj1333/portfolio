@@ -15,3 +15,10 @@ I have used JS to work with the dark-light mode toggle. I have used the query se
 ### MISC CSS 
 
 I have used CSS to add subtle animations to various elements for better visual experiences. I have used the same to create a custom scrollbar following the dark-light modes.
+
+### BLOG SECTION 
+
+I have written a small walkthrough in the blogs section to give you an idea behind the technologies that I have used in building these webpages. The code for the blog section can be accessed on the blog section webpage itself.
+
+
+PS: I have also referred to a few YouTube Videos in order to build these webpages. 
